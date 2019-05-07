@@ -1,0 +1,6 @@
+2019-05-04T00:12:28+00:00 CRITICAL parse error in /Library/WebServer/Documents/wordpress/wp-content/themes/pixgraphyPlus/single.php on line 94
+
+2019-05-04T00:17:23+00:00 CRITICAL parse error in /Library/WebServer/Documents/wordpress/wp-content/themes/pixgraphyPlus/single.php on line 118
+
+2019-05-04T05:00:53+00:00 CRITICAL parse error, expecting `'&'' or `"variable (T_VARIABLE)"' in /Library/WebServer/Documents/wordpress/wp-content/themes/pixgraphyPlus/functions.php on line 257
+
